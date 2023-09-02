@@ -1,0 +1,17 @@
+.wrapper-svg svg {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+
+.chair {
+  stroke: #b8860b;
+  stroke-width: 4;
+  fill: transparent;
+}
+
+.rectangle {
+  stroke: blue;
+  fill: rgb(96, 96, 193);
+  border-radius: 1px;
+}
